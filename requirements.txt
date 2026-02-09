@@ -1,0 +1,12 @@
+# Requirements for Agentic Academic Search - Web Deployment
+# For Streamlit Cloud, Railway, Render, or any Python hosting
+
+# Core dependencies
+anthropic>=0.39.0
+streamlit>=1.31.0
+
+# Optional: Enhanced features  
+python-dotenv>=1.0.0
+
+# Note: These are minimal requirements
+# Add more as needed for your specific deployment
